@@ -1,4 +1,4 @@
-# HkAmsters_CMCL2022
+# HkAmsters at CMCL2022 Shared Task
 
 Proposed system at [CMCL2022 Shared Task: Multilingual and crosslingual prediction of human reading behavior.](https://cmclorg.github.io/shared_task)
 
